@@ -1,0 +1,15 @@
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\bin\Debug\net8.0\MiniExercice1.exe
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\bin\Debug\net8.0\MiniExercice1.deps.json
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\bin\Debug\net8.0\MiniExercice1.runtimeconfig.json
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\bin\Debug\net8.0\MiniExercice1.dll
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\bin\Debug\net8.0\MiniExercice1.pdb
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\obj\Debug\net8.0\MiniExercice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\obj\Debug\net8.0\MiniExercice1.AssemblyInfoInputs.cache
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\obj\Debug\net8.0\MiniExercice1.AssemblyInfo.cs
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\obj\Debug\net8.0\MiniExercice1.csproj.CoreCompileInputs.cache
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\obj\Debug\net8.0\MiniExercice1.sourcelink.json
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\obj\Debug\net8.0\MiniExercice1.dll
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\obj\Debug\net8.0\refint\MiniExercice1.dll
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\obj\Debug\net8.0\MiniExercice1.pdb
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\obj\Debug\net8.0\MiniExercice1.genruntimeconfig.cache
+C:\Users\isaaf\Documents\Prog3\MiniExercice1\MiniExercice1\obj\Debug\net8.0\ref\MiniExercice1.dll
